@@ -3,9 +3,11 @@ body {
 }
 
 .logo {
-  height: 50em;
-  width: 50em;
-  margin-left: 10%;
+  height: 800px;
+}
+
+.phone {
+  height: 128px;
 }
 
 .underconstruction {
